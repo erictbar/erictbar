@@ -1,5 +1,8 @@
-### Hi there 👋
-
+- 👋 Hi, I’m @erictbar
+- 👀 I’m interested in beta testing
+- 🌱 I’m currently learning Windows Server & PowerShell
+- 📫 How to reach me: contact.erictb.com
+- 😄 Pronouns: He/him
 <!--
 **erictbar/erictbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
