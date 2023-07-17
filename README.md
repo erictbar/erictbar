@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @erictbar
-- 👀 I’m interested in beta testing
-- 🌱 I’m currently learning Windows Server & PowerShell
+- 👀 I’m interested in beta testing & self-hosted game streaming
 - 📫 How to reach me: [contact.erictb.com](http://contact.erictb.com)
 - 😄 Pronouns: He/him
 <!--
