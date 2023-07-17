@@ -18,3 +18,8 @@
 - Xbox Series S with Dev Mode
 - PS4 Pro
 - Nintendo Switch V1 running Atomosphère and LineageOS 18.1
+- Chromecast with Google TV
+- Apple TV 4K (1st gen) running latest GM of tvOS
+- Apple TV HD running latest developer beta of tvOS
+- HomePod (original) running latest beta of audioOS
+- Google Nest Hub (original)
