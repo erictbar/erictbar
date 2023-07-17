@@ -4,8 +4,8 @@
 - 16GB RAM @ 3200MHz
 - WD_BLACK 1 TB PCIe NVMe TLC Solid-State Drive
 - 2TB Internal HDD
-
-
+- Alienware 1080p 240Hz Display
+##
 - Windows 11 Pro
 - Ubuntu 22.04 LTE
 
