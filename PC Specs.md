@@ -24,3 +24,5 @@
 - Apple TV HD running latest developer beta of tvOS
 - HomePod (original) running latest GM of audioOS
 - Google Nest Hub (original)
+- Raspberry Pi 4 Model B
+- PlayStation Classic running AutoBleem
