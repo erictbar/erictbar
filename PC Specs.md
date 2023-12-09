@@ -7,10 +7,10 @@
 - Alienware 1080p 240Hz Display
 ##
 - Windows 11 Pro
-- Ubuntu 23.04 LTE
+- Ubuntu 23.10 LTE
 
 ## Other devices:
-- MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Ventura
+- MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sonoma (OCLP)
 - iPad Pro 10.5" running latest developer beta of iPadOS
 - iPhone 13 mini running latest GM of iOS
 - Boox Leaf
@@ -22,5 +22,5 @@
 - Chromecast with Google TV
 - Apple TV 4K (1st gen) running latest GM of tvOS
 - Apple TV HD running latest developer beta of tvOS
-- HomePod (original) running latest beta of audioOS
+- HomePod (original) running latest GM of audioOS
 - Google Nest Hub (original)
