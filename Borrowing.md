@@ -1,5 +1,5 @@
 ## Borrowing for close friends & family
-- For digital content, I cannot provide access to the entire catalog at once as I belive this is stealing via duplication. Borrowing may be done in the same way it is done at a library, by checking out and being available for a time period or until returned by using permissions on my server. I will remove access for myself during the period and any items downloaded must be deleted when returned. 
+- For digital content, borrowing may be done in the same way it is done at a library, by checking out and being available for a time period or until returned by using permissions on my server. I will remove access for myself during the period and any items downloaded must be deleted when returned. 
 ### Catalog with what I have available physically or DRM-free
 ### 🍿Movies & TV
 - [Movies, Concerts & Stand-Up](https://letterboxd.com/erictbar/list/sharing/share/DbfL8vgaagQGl9a0/)
