@@ -3,7 +3,7 @@
 ### Catalog with what I have available physically or DRM-free
 ### 🍿Movies & TV
 - [Movies, Concerts & Stand-Up](https://letterboxd.com/erictbar/list/sharing/share/DbfL8vgaagQGl9a0/)
-  ``Majority available physically, some only digital``
+  ``All available digital & physical, some only digital``
 - [TV Seasons](https://www.serializd.com/list/107439) ``All available physically & digital``
 
 ### 📕 Books, Manga & Comics
