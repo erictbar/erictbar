@@ -23,6 +23,6 @@
 - Apple TV 4K (1st gen) running latest GM of tvOS
 - Apple TV HD running latest developer beta of tvOS
 - HomePod (original) running latest GM of audioOS
-- Google Nest Hub (original)
-- Raspberry Pi 4 Model B
+- Google Nest Hub (original) running Google Fushsia
+- Raspberry Pi 4 Model B running Jellyfin server
 - PlayStation Classic running AutoBleem
