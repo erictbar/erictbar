@@ -7,9 +7,10 @@
 - Alienware 1080p 240Hz Display
 ##
 - Windows 11 Pro
-- Ubuntu 23.10 LTE
+- Ubuntu 23.04
 
 ## Other devices:
+- LarkBox X with Ubuntu 22.04 LTE for self-hosting
 - MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sonoma (OCLP)
 - iPad Pro 10.5" running latest developer beta of iPadOS
 - iPhone 13 mini running latest GM of iOS
@@ -18,11 +19,11 @@
 - Dell Inspiron 15 3000 running Windows Insider Dev
 - Xbox Series S with Dev Mode
 - PS4 Pro
-- Nintendo Switch V1 running Atomosphère, LineageOS 18.1 & L4T Ubuntu 18.04
+- Nintendo Switch V1 running Atomosphère, LineageOS 18.1 & L4T Ubuntu 22.04
 - Chromecast with Google TV
 - Apple TV 4K (1st gen) running latest GM of tvOS
 - Apple TV HD running latest developer beta of tvOS
 - HomePod (original) running latest GM of audioOS
 - Google Nest Hub (original) running Google Fushsia
-- Raspberry Pi 4 Model B running Jellyfin server
+- Raspberry Pi 4 Model B for projects
 - PlayStation Classic running AutoBleem
