@@ -1,5 +1,8 @@
-- 👋 Hi, I’m @erictbar
-- 👀 I’m interested in beta testing, self-hosted game streaming and running all of my apps & content on as many of my devices as possible 
+- 👋 Hi, I’m Eric Barbosa
+- 👀 I’m interested in
+  - Beta testing
+  - Self-hosting my games, media and more
+  - Running all of my apps & content on as many of my devices as possible 
 - 📫 How to reach me: [contact.erictb.com](http://contact.erictb.com)
 - 😄 Pronouns: He/him
 <!--
