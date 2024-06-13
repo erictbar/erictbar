@@ -9,14 +9,28 @@
 - Windows 11 Pro
 - Ubuntu 23.04
 
-## Other devices:
-- LarkBox X with Ubuntu 22.04 LTE for self-hosting
+##
+
+### Lenovo Ideapad Flex 5i (14", 7)
+- i5 12th gen 1.3GHz
+- iRIS xe Graphics
+
+##
+- Windows 11 Pro & Vanilla OS
+
+##
+
+### LarkBox X with Ubuntu 22.04 LTE for self-hosting
+
+##
+
+## Other devices: 
 - MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sonoma (OCLP)
 - iPad Pro 10.5" running latest developer beta of iPadOS
 - iPhone 13 mini running latest GM of iOS
 - Boox Leaf
 - Apple Watch Series 7 running latest GM of watchOS
-- Dell Inspiron 15 3000 running Windows Insider Dev
+- Dell Inspiron 15 3000 running Windows Insider Dev (broken hinge)
 - Xbox Series S with Dev Mode
 - PS4 Pro
 - Nintendo Switch V1 running Atomosphère, LineageOS 18.1 & L4T Ubuntu 22.04
