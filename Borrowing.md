@@ -8,7 +8,9 @@
 
 ### 📕 Books, Manga & Comics
 - [Books](https://www.libib.com/u/ericb/l/1467273) ``Physical``
-- [Books, Audiobooks, Manga & Comics](https://app.thestorygraph.com/tags/77f54844-5d9a-4164-bb16-d3f0b1a3fdb4) ``Digital``
+- [Books, Manga & Comics](https://app.thestorygraph.com/tags/77f54844-5d9a-4164-bb16-d3f0b1a3fdb4) ``Digital``
+- [Audiobooks](https://app.thestorygraph.com/tags/e9677c9d-0926-4df6-8390-32028950a67a) ``Digital``
+  ``Client for audiobooks is currently not easily available on iOS.``
 - [Manga & Comics](https://www.libib.com/u/ericb/l/1467304) ``Physical``
 
 ### 🎸 Music
