@@ -3,7 +3,7 @@
   - Beta testing
   - Self-hosting my games, media and more
   - Running all of my apps & content on as many of my devices as possible 
-- 📫 How to reach me: [contact.erictb.com](http://contact.erictb.com)
+- 📫 How to reach me: [sh.erictb.com](http://sh.erictb.com)
 - 😄 Pronouns: He/him
 <!--
 **erictbar/erictbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
