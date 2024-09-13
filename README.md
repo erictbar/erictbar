@@ -3,7 +3,7 @@
   - Beta testing
   - Self-hosting my games, media and more
   - Running all of my apps & content on as many of my devices as possible 
-- 📫 How to reach me: [sh.erictb.com](http://sh.erictb.com)
+- 📫 How to reach me: [erictb.com](http://erictb.com)
 - 🖥️ [Device specs](https://github.com/erictbar/erictbar/blob/main/PC%20Specs.md)
 - 😄 Pronouns: He/him
 <!--
