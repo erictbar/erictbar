@@ -26,10 +26,10 @@
 
 ## Other devices: 
 - MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sonoma (OCLP)
-- iPad Pro 10.5" running latest developer beta of iPadOS
-- iPhone 13 mini running latest GM of iOS
+- iPad Pro 10.5" running iPadOS 17.x
+- iPhone 13 mini running iOS 18.x
 - Boox Leaf
-- Apple Watch Series 7 running latest GM of watchOS
+- Apple Watch Series 7 running watchOS 11.x
 - Dell Inspiron 15 3000 running Windows Insider Dev (broken hinge)
 - Xbox Series S with Dev Mode
 - PS4 Pro
@@ -37,7 +37,7 @@
 - Chromecast with Google TV
 - Apple TV 4K (1st gen) running latest GM of tvOS
 - Apple TV HD running latest developer beta of tvOS
-- HomePod (original) running latest GM of audioOS
+- HomePod (original) running latest developer beta of audioOS
 - Google Nest Hub (original) running Google Fushsia
 - Raspberry Pi 4 Model B for projects
 - PlayStation Classic running AutoBleem
