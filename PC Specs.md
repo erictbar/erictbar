@@ -25,7 +25,7 @@
 ##
 
 ## Other devices: 
-- MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sonoma (OCLP)
+- MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sequoia (OCLP)
 - iPad Pro 10.5" running iPadOS 17.x
 - iPhone 13 mini running iOS 18.x
 - Boox Leaf
