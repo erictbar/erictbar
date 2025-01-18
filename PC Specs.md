@@ -7,8 +7,7 @@
 - Alienware 1080p 240Hz Display
 ##
 - Windows 11 Pro
-- Ubuntu 23.04
-
+ 
 ##
 
 ### Lenovo Ideapad Flex 5i (14", 7)
@@ -20,7 +19,7 @@
 
 ##
 
-### LarkBox X with Ubuntu 22.04 LTE for self-hosting
+### LarkBox X with Ubuntu 24.04 LTE for self-hosting
 
 ##
 
