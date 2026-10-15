@@ -3,10 +3,11 @@
 - Nvidia RTX 3600 Ti
 - 32GB RAM @ 3200MHz
 - WD_BLACK 1 TB PCIe NVMe TLC Solid-State Drive
-- 2TB Internal HDD
+- 2TB & 4TB Internal HDD
 - Alienware 1080p 240Hz Display
 ##
 - Windows 11 Pro
+- WSL2 with Ubuntu 24.04 LTS
  
 ##
 
@@ -15,7 +16,7 @@
 - iRIS xe Graphics
 
 ##
-- Windows 11 Pro & Vanilla OS
+- Windows 11 Pro
 
 ##
 
@@ -26,17 +27,14 @@
 ## Other devices: 
 - MacBook Pro (2017, 13", 4 ThunderBolt Ports) running macOS Sequoia (OCLP)
 - iPad Pro 10.5" running iPadOS 17.x
-- iPhone 13 mini running iOS 18.x
+- iPhone 13 mini running iOS 27.x
 - Boox Leaf
-- Apple Watch Series 7 running watchOS 11.x
-- Dell Inspiron 15 3000 running Windows Insider Dev (broken hinge)
+- Apple Watch Series 10 running watchOS 27.x
 - Xbox Series S with Dev Mode
 - PS4 Pro
 - Nintendo Switch V1 running Atomosphère, LineageOS 18.1 & L4T Ubuntu 22.04
-- Chromecast with Google TV
-- Apple TV 4K (1st gen) running latest GM of tvOS
-- Apple TV HD running latest developer beta of tvOS
-- HomePod (original) running latest developer beta of audioOS
+- Apple TV 4K (1st gen) running tvOS 26
+- Apple TV HD running tvOS 26
 - Google Nest Hub (original) running Google Fushsia
-- Raspberry Pi 4 Model B for projects
+- Raspberry Pi 4 Model B for Home Assistant
 - PlayStation Classic running AutoBleem
